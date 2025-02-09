@@ -6,3 +6,6 @@ playing with markdown. added header.
 ``` python
 print("Hello, world!");
 ```
+- [ ] Do this assignment
+- [ ] Turn in to Nina
+- [x] Smile
